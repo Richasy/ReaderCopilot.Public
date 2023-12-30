@@ -1,0 +1,15 @@
+{
+    "id": "ChatGLM_BGE",
+    "name": "ChatGLM/BGE",
+    "base_url": "http://localhost:8600",
+    "initial_script": "initial.ps1",
+    "run_script": "run.ps1",
+    "models":{
+        "chat": [
+            "ChatGLM3-6B"
+        ],
+        "embedding": [
+            "bge-large-zh-v1.5"
+        ]
+    }
+}
