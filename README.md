@@ -46,6 +46,10 @@ Test plugins can be downloaded in [Releases](https://github.com/Richasy/ReaderCo
 
 For detailed usage instructions, please visit [Reader Copilot Document](https://readercopilot.richasy.com/docs)
 
+## QQ Group
+
+中文用户可以使用 QQ 群交流：**858688642**
+
 ## Screenshot
 
 ![Screenshot](./assets/screenshot.png)
