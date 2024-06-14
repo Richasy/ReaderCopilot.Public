@@ -44,7 +44,7 @@ Minimum supported version is Windows 10 ver.19041.
 
 Test plugins can be downloaded in [Releases](https://github.com/Richasy/ReaderCopilot.Public/releases) with the suffix `.rcpkg`.
 
-For detailed usage instructions, please visit [Reader Copilot Document](https://readercopilot.richasy.com/docs)
+For detailed usage instructions, please visit [Reader Copilot Document](https://readercopilot.richasy.net/docs)
 
 ## QQ Group
 
