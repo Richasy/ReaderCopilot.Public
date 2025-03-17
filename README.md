@@ -9,7 +9,7 @@
 `Rodel Reader` can read e-books, and support RSS / Podcasts.
 
 <p align="center">
-    <a title="Get From Microsoft Store" href="https://www.microsoft.com/store/apps/9PFZCKRHW0BC?launch=true&mode=full" target="_blank">
+    <a title="Get From Microsoft Store" href="https://apps.microsoft.com/detail/9PFZCKRHW0BC?launch=true&mode=full" target="_blank">
     Get From Microsoft Store
     </a>
 </p>
@@ -23,7 +23,7 @@
 
 ## Overview
 
-[Rodel Reader](https://www.microsoft.com/store/apps/9PFZCKRHW0BC) is a Windows desktop reading tool that provides you with a high-quality reading experience through a user interface that adheres to Fluent Design.
+[Rodel Reader](https://apps.microsoft.com/detail/9PFZCKRHW0BC) is a Windows desktop reading tool that provides you with a high-quality reading experience through a user interface that adheres to Fluent Design.
 
 It has three main functional sections:
 
